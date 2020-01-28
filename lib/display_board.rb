@@ -1,4 +1,4 @@
-def tic_tac
+def display_board
   puts "  |  |  "
   puts "________"
   puts "  |  |  "
